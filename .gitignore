@@ -1,0 +1,12 @@
+/target
+auth_key.txt
+cache.json
+config.toml
+.thumbnails
+thumbnails
+.flatpak-builder
+flatpak/.flatpak-builder
+flatpak/build-dir
+flatpak/repo
+flatpak/flatpak-cargo-generator.py
+.flatpak-builder
